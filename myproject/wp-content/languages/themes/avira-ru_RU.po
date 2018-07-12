@@ -1,0 +1,64 @@
+# Translation of Themes - Avira in Russian
+# This file is distributed under the same license as the Themes - Avira package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-22 14:27:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Avira\n"
+
+#. Description of the plugin/theme
+msgid "Avira is the right theme for you if you are looking for a multipurpose theme that can handle everything you throw at it. It is perfect for marketing, corporate startup, agency, blog, business, company, creative, portfolio, professional business, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. The design is easy to change and adapt to the client needs. The theme has all the modern functionality such as: slider, services, blogs and much more. It is 100% Responsive WooCommerce Theme with a luxurious and elegant design. It has a fully responsive width that adjusts automatically to any screen size or resolution. It can be customized easily, and also has multiple features and functionalities. Let's start downloading this amazing and beautiful Free Multipurpose WordPress Theme right away. View the demo of Avira Premium http://demo.speciatheme.com/pro/?theme=avira"
+msgstr "Avira - самая подходящая тема для тех, кто ищет универсальную тему, способную справиться со всеми поставленными задачами. Она идеальна для маркетинга, корпоративных начинаний, агентств, блогов, бизнеса, компаний, творческой деятельности, портфолио, профессиональной деятельности, ресторанного бизнеса, фитнеса, спа-салонов, докторов и больниц, целевых страниц, страниц продукта, корпоративного бизнеса, цифровых агентств, презентации товаров, финансовых консультантов, бухгалтеров, юридических фирм, консультантов по материальным благам; она приспосабливается к нуждам клиента. Тема имеет все современные функциональные возможности, такие как слайдер, сервисы, блоги и многое другое. Это 100% совместимая тема WooCommerce с дорогим и элегантным дизайном. Ширина страницы автоматически настраивается под любой размер и разрешение экрана. Тему легко настроить, у нее также имеется множество особенностей и функций. Скачайте эту отличную Бесплатную Универсальную Тему WordPress уже сейчас. Посмотрите презентацию Avira Premium http://demo.speciatheme.com/pro/?theme=avira"
+
+#. Theme Name of the plugin/theme
+msgid "Avira"
+msgstr "Avira"
+
+#: inc/customize/avira-premium.php:29
+msgid "Support Center"
+msgstr "Центр поддержки"
+
+#: inc/customize/avira-premium.php:27
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/customize/avira-premium.php:25
+msgid "View Details"
+msgstr "Посмотреть информацию"
+
+#: inc/customize/avira-premium.php:23
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: inc/customize/avira-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Обновить до Premium"
+
+#: sections/specia-slider.php:61
+msgid "Read More"
+msgstr "Читать далее"
+
+#. Template Name of the plugin/theme
+msgid "Homepage One"
+msgstr "Главная страница Один"
+
+#. Template Name of the plugin/theme
+msgid "Page Fullwidth"
+msgstr "На всю ширину страницы"
+
+#. Theme URI of the plugin/theme
+msgid "https://speciatheme.com/avira-free-wordpress-theme/"
+msgstr "https://speciatheme.com/avira-free-wordpress-theme/"
+
+#. Author URI of the plugin/theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the plugin/theme
+msgid "Specia"
+msgstr "Specia"

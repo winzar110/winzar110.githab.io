@@ -1,0 +1,993 @@
+# Translation of Themes - Specia in Russian
+# This file is distributed under the same license as the Themes - Specia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-23 16:28:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Specia\n"
+
+#. Description of the plugin/theme
+msgid "Specia is a Multipurpose WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. Well suited for any type of websites - business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. Specia is made on its cross-browser compatibility. It consists of: Slider, Call to Action, Service, Features, Latest Posts, Sticky Header, Social Icons, Payment Icons and Four Column blocks in Footer. This theme has several customization options that are available WordPress Theme Customizer. Specia is WPML, Polylang compatible and it´s translation ready. Specia works fine with WordPress popular plugins like WooCommerce, Contact Form 7, Ninja Form, Jetpack, WP-featherlight, Give - WordPress Donation Plugin, Open Table Widget, Page Links To, Gravity Forms, Yoast SEO, and many others. Get more features in the premium version. It has multiple useful sections on the homepage - Slider, Call to Action, Services, Features, Filterable Portfolio, Plans & Pricing, Testimonials, Teams, and Clients. Following page templates ready for publishing like: about, service, portfolio, portfolio filter, pricing, blog full width, blog left sidebar, blog right sidebar, blog masonry, and contact. What are you waiting for? Let's start downloading this amazing and beautiful Free Multipurpose WordPress Theme right away. View the demo of Specia Premium http://demo.speciatheme.com/pro/?theme=specia"
+msgstr "Specia - это универсальная тема WordPress с множеством мощных функций, которая сразу же обеспечивает профессиональную презентацию Вашего Интернет-ресурса. Отлично подобранная тема для любого типа веб-сайтов: бизнес, портфолио, гастрономия, фитнес, спа-салоны, доктора и больницы, целевые страницы, страницы продукта, корпоративный бизнес, цифровое агентство, презентация товаров, финансовый консультант, бухгалтер, юридическая фирма, консультант по материальным благам, фотографии, персонал и любые Интернет-магазины. Specia совместима с различными обозревателями интернета. Она состоит из следующих компонентов: слайдер, призыв к действию, услуги, возможности, последние посты, прикрепленный заголовок, иконки социальных сетей, иконки оплаты и четыре блока столбцов в нижнем колонтитуле. Эта тема имеет несколько вариантов персонализации, доступных в настройщике тем WordPress. Specia имеет плагин WPML, совместима с мультиязычными версиями и готова для осуществления переводов. Specia отлично работает с такими популярными плагинами Wordpress, как WooCommerce, Contact Form 7, Ninja Form, Jetpack, WP-featherlight, Give - WordPress Donation Plugin, Open Table Widget, Page Links To, Gravity Forms, Yoast SEO и многими другими. Получите больше возможностей в премиум-версии, имеющей множество полезных разделов на главной странице: слайдер, призыв к действию, услуги, возможности, портфолио с фильтрами, планы и цены, награды, команда и клиенты. Следующие шаблоны страниц готовы к публикации: О компании, услуги, портфолио, фильтр портфолио, цены, текст на всю ширину страницы, левая боковая панель,правая боковая панель, кирпичный эффект и контактные данные. Чего Вы ждете? Скачивайте эту отличную Бесплатную универсальную тему WordPress прямо сейчас. Посмотрите демонстрацию темы Specia Premium http://demo.speciatheme.com/pro/?theme=specia"
+
+#: inc/theme-info.php:609
+msgid "Buy Avira Now"
+msgstr "Купить Avira сейчас"
+
+#: inc/theme-info.php:548
+msgid "Why Choose Avira Premium?"
+msgstr "Почему стоит выбрать Avira Premium?"
+
+#: inc/theme-info.php:531
+msgid "Avira is the right theme for you if you are looking for a multipurpose theme that can handle everything you throw at it. It is perfect for business themes, marketing, corporate startup, agency, blog, business, company, corporate, creative, portfolio, professional and more. The design is easy to change and adapt to the client needs. The theme has all the modern functionality such as: slider, services, blogs and much more."
+msgstr "Тема Avira отлично подойдет тем, кто ищет универсальную тему, способную справиться со всеми задачами. Она идеальна для бизнеса, маркетинга, корпоративных стартапов, агентств, блогов, бизнес-деятельности, компаний, корпораций, творческой деятельности, портфолио, профессиональной деятельности и многого другого. Дизайн легко поддается изменению и адаптируется под нужды клиентов. Тема имеет все современные возможности, как слайдер, сервисы, блоги и многое другое."
+
+#: inc/theme-info.php:530
+msgid "Avira Premium WordPress Theme"
+msgstr "Тема Avira Premium"
+
+#: inc/theme-info.php:29
+msgid "Avira Theme"
+msgstr "Тема Avira"
+
+#: inc/customize/specia-premium.php:36
+msgid "Support Center"
+msgstr "Центр поддержки"
+
+#: inc/customize/specia-premium.php:32
+msgid "View Details"
+msgstr "Посмотреть информацию"
+
+#: inc/customize/specia-premium.php:14
+msgid "Upgrade to Premium"
+msgstr "Обновить до Premium"
+
+#: inc/theme-info.php:462 inc/theme-info.php:705
+msgid "About Page"
+msgstr "О нас"
+
+#: inc/theme-info.php:142
+msgid "<b>3</b> Slides"
+msgstr "<b>3</b> слайда"
+
+#: inc/theme-info.php:69
+msgid "Contact Form 7 Plugin Supports"
+msgstr "Поддержка плагина Contact Form 7"
+
+#: inc/theme-info.php:67
+msgid "WPML & Polylang Plugin Supports"
+msgstr "Поддержка плагинов WPML и Polylang"
+
+#: inc/theme-info.php:467 inc/theme-info.php:710
+msgid "Service Page"
+msgstr "Страница услуг"
+
+#: inc/theme-info.php:473 inc/theme-info.php:716
+msgid "Pricing Page"
+msgstr "Страница цен"
+
+#. Template Name of the plugin/theme
+msgid "Blog Masonry"
+msgstr "Кирпичный эффект"
+
+#: inc/customize/specia-premium.php:34 inc/upsale/class-customize.php:77
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/theme-info.php:366
+msgid "Buy Proficient Now"
+msgstr "Купить Proficient сейчас"
+
+#: inc/theme-info.php:305
+msgid "Why Choose Proficient Premium?"
+msgstr "Почему стоит выбрать Proficient Premium?"
+
+#: inc/theme-info.php:288
+msgid "Proficient is the right theme for you if you are looking for a multipurpose theme that can handle everything you throw at it. It is perfect for business themes, marketing, corporate startup, agency, blog, business, company, corporate, creative, portfolio, professional and more. The design is easy to change and adapt to the client needs. The theme has all the modern functionality such as: slider, services, blogs and much more."
+msgstr "Тема Proficient отлично подойдет тем, кто ищет универсальную тему, способную справиться со всеми задачами. Она идеальна для бизнеса, маркетинга, корпоративных стартапов, агентств, блогов, бизнес-деятельности, компаний, корпораций, творческой деятельности, портфолио, профессиональной деятельности и многого другого. Дизайн легко поддается изменению и адаптируется под нужды клиентов. Тема имеет все современные возможности, как слайдер, сервисы, блоги и многое другое."
+
+#: inc/theme-info.php:287
+msgid "Proficient Premium WordPress Theme"
+msgstr "Тема Proficient Premium"
+
+#: inc/theme-info.php:268 inc/theme-info.php:511 inc/theme-info.php:754
+msgid "<b>Premium</b> <a href='https://specia.ticksy.com/' target='_blank'>Help Desk</a></i></a>"
+msgstr "<b>Premium</b> <a href='https://specia.ticksy.com/' target='_blank'>Справочная</a></i></a> "
+
+#: inc/theme-info.php:267 inc/theme-info.php:510 inc/theme-info.php:753
+msgid "<b>Free</b> <a href='https://specia.ticksy.com/' target='_blank'>Help Desk</a>"
+msgstr "<b>Бесплатная версия </b> <a href='https://specia.ticksy.com/' target='_blank'>Справочная</a>"
+
+#: inc/theme-info.php:260 inc/theme-info.php:503 inc/theme-info.php:746
+msgid "Custom Page Template"
+msgstr "Шаблон пользовательской страницы"
+
+#: inc/theme-info.php:254 inc/theme-info.php:497 inc/theme-info.php:740
+msgid "Photo Gallery</span>"
+msgstr "Фотогалерея</span>"
+
+#: inc/theme-info.php:123
+msgid "Buy Specia Now"
+msgstr "Купите Specia сейчас"
+
+#: inc/theme-info.php:114 inc/theme-info.php:357 inc/theme-info.php:600
+msgid "Enhance your website with premium version"
+msgstr "Улучшите свой Веб-сайт премиум-версией"
+
+#: inc/theme-info.php:81 inc/theme-info.php:324 inc/theme-info.php:567
+msgid "Background Patterns"
+msgstr "Образцы фона"
+
+#: inc/theme-info.php:201 inc/theme-info.php:444 inc/theme-info.php:687
+msgid "Attractive Blog Pages"
+msgstr "Привлекательные страницы блога"
+
+#: inc/theme-info.php:189 inc/theme-info.php:432 inc/theme-info.php:675
+msgid "Client/Sponsor Section"
+msgstr "Раздел Клиент/Спонсор"
+
+#: inc/theme-info.php:171 inc/theme-info.php:414 inc/theme-info.php:657
+msgid "WooCommerce Compatibility"
+msgstr "Совместимость с WooCommerce"
+
+#: inc/theme-info.php:167 inc/theme-info.php:410 inc/theme-info.php:653
+msgid "<b>Unlimited Portfolio</b>"
+msgstr "<b>Портфолио безлимитно</b>"
+
+#: inc/theme-info.php:45
+msgid "Specia is a Multipurpose WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. Well suited for any type of websites - business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, photography, personal, real estate and eCommerce stores."
+msgstr "Specia - это универсальная тема WordPress с множеством мощных функций, которая сразу же обеспечивает профессиональную презентацию Вашего Интернет-ресурса. Отлично подобранная тема для любого типа веб-сайтов: бизнес, портфолио, гастрономия, фитнес, спа-салоны, доктора и больницы, целевые страницы, страницы продукта, корпоративный бизнес, цифровое агентство, презентация товаров, финансовый консультант, бухгалтер, юридическая фирма, консультант по материальным благам, фотографии, персонал и любые Интернет-магазины. "
+
+#: inc/theme-info.php:149 inc/theme-info.php:392 inc/theme-info.php:635
+msgid "<b>5 Animation</b> with Custom Buttons"
+msgstr "<b>5 анимация</b> со специальными кнопками"
+
+#: inc/theme-info.php:147 inc/theme-info.php:390 inc/theme-info.php:633
+msgid "Call to Action"
+msgstr "Призыв к действию"
+
+#: inc/theme-info.php:141 inc/theme-info.php:384 inc/theme-info.php:627
+msgid "Touch & Swipe Slider"
+msgstr "Слайдер Touch & Swipe"
+
+#: inc/theme-info.php:135 inc/theme-info.php:378 inc/theme-info.php:621
+msgid "Custom Logo & Favicon"
+msgstr "Логотип и иконка сайта"
+
+#: inc/theme-info.php:129 inc/theme-info.php:372 inc/theme-info.php:615
+msgid "Header Soical Icons & Contact Info"
+msgstr "Иконки заголовка и контактная информация"
+
+#: inc/theme-info.php:28
+msgid "Proficient Theme"
+msgstr "Тема Proficient "
+
+#: inc/theme-info.php:27
+msgid "Specia Theme"
+msgstr "Тема Specia "
+
+#: inc/template-tags.php:179
+msgid "theme info page"
+msgstr "Информация о теме"
+
+#: inc/template-tags.php:178
+msgid "Welcome to Specia! Info about the theme can be found at your"
+msgstr "Добро пожаловать в Specia! Информация о теме находится на Вашем"
+
+#: inc/template-tags.php:189 inc/upsale/class-customize.php:76
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/theme-info.php:183 inc/theme-info.php:426 inc/theme-info.php:669
+msgid "Testimonial Section"
+msgstr "Раздел благодарностей"
+
+#: inc/theme-info.php:207 inc/theme-info.php:450 inc/theme-info.php:693
+msgid "WPML & Polylang Support"
+msgstr "Поддержка плагинов WPML и Polylang"
+
+#: inc/theme-info.php:219
+msgid "Custom About Page"
+msgstr "Пользовательская страница \"О нас\""
+
+#: inc/theme-info.php:224
+msgid "Custom Service Page"
+msgstr "Пользовательская страница услуг"
+
+#: inc/theme-info.php:230
+msgid "Custom Pricing Page"
+msgstr "Пользовательская страница цен"
+
+#: inc/theme-info.php:236 inc/theme-info.php:479 inc/theme-info.php:722
+msgid "Preset Background & Colors"
+msgstr "Предустановки фона и цветов"
+
+#: inc/theme-info.php:242 inc/theme-info.php:485 inc/theme-info.php:728
+msgid "Website Layouts"
+msgstr "Разметка веб-сайта"
+
+#: inc/theme-info.php:248 inc/theme-info.php:491 inc/theme-info.php:734
+msgid "Breadcrumbs</span>"
+msgstr "\"Хлебные крошки\"</span>"
+
+#: inc/theme-info.php:266 inc/theme-info.php:509 inc/theme-info.php:752
+msgid "Awesome Fast Support"
+msgstr "Быстрая качественная поддержка"
+
+#: inc/customize/specia-header-section.php:311
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customize/specia-call-action.php:95
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customize/specia-blog.php:105 inc/customize/specia-call-action.php:55
+#: inc/customize/specia-portfolio.php:104 inc/customize/specia-service.php:105
+#: inc/customize/specia-slider-section.php:60
+msgid "Content"
+msgstr "Содержание"
+
+#: inc/customize/specia-blog.php:73 inc/customize/specia-features.php:73
+#: inc/customize/specia-portfolio.php:72 inc/customize/specia-service.php:73
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/customize/specia-blog.php:55 inc/customize/specia-features.php:55
+#: inc/customize/specia-portfolio.php:54 inc/customize/specia-service.php:55
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customize/specia-blog.php:38 inc/customize/specia-call-action.php:38
+#: inc/customize/specia-features.php:38 inc/customize/specia-portfolio.php:38
+#: inc/customize/specia-service.php:38
+#: inc/customize/specia-slider-section.php:43
+msgid "Hide / Show Section"
+msgstr "Скрыть/Показать Раздел"
+
+#: inc/customize/specia-blog.php:21 inc/customize/specia-call-action.php:21
+#: inc/customize/specia-features.php:21 inc/customize/specia-portfolio.php:21
+#: inc/customize/specia-service.php:21
+#: inc/customize/specia-slider-section.php:25
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/theme-info.php:255 inc/theme-info.php:498 inc/theme-info.php:741
+msgid "Core Gallery Support"
+msgstr "Поддержка основной галереи"
+
+#: inc/theme-info.php:250 inc/theme-info.php:493 inc/theme-info.php:736
+msgid "Background Color & Background Image"
+msgstr "Цвет и изображение фона"
+
+#: inc/theme-info.php:166 inc/theme-info.php:409 inc/theme-info.php:652
+msgid "3 Portfolio"
+msgstr "3 портфолио"
+
+#: inc/theme-info.php:161 inc/theme-info.php:404 inc/theme-info.php:647
+msgid "With background color and background image"
+msgstr "С цветом и изображением фона"
+
+#: inc/theme-info.php:160 inc/theme-info.php:403 inc/theme-info.php:646
+msgid "With background color"
+msgstr "С цветом фона"
+
+#: inc/theme-info.php:155 inc/theme-info.php:398 inc/theme-info.php:641
+msgid "<b>Unlimited</b> Services (Icons & Image) with <b>Own Link</b>"
+msgstr "<b>Безлимитные</b> услуги (иконки и изображения) с<b>личной ссылкой</b>"
+
+#: inc/theme-info.php:154 inc/theme-info.php:397 inc/theme-info.php:640
+msgid "3 Services"
+msgstr "3 Услуги"
+
+#: inc/theme-info.php:148 inc/theme-info.php:391 inc/theme-info.php:634
+msgid "<b>1 Animation</b> with background color"
+msgstr "<b>1 Анимация</b> с цветом фона"
+
+#: inc/theme-info.php:143 inc/theme-info.php:386 inc/theme-info.php:629
+msgid "<b>Unlimited Slides</b> with more features"
+msgstr "<b>Безлимитные слайды</b> с большими возможностями"
+
+#: inc/theme-info.php:385 inc/theme-info.php:628
+msgid "<b>3 Slides</b> Supports"
+msgstr "Поддержка <b>3 слайдов</b>"
+
+#: inc/theme-info.php:122 inc/theme-info.php:365 inc/theme-info.php:608
+msgid "Free Download"
+msgstr "Бесплатно скачать"
+
+#: inc/theme-info.php:113 inc/theme-info.php:356 inc/theme-info.php:599
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/theme-info.php:91 inc/theme-info.php:334 inc/theme-info.php:577
+msgid "4 Column Footer"
+msgstr "Нижний колонтитул с 4 колонками"
+
+#: inc/theme-info.php:90 inc/theme-info.php:333 inc/theme-info.php:576
+msgid "Awesome Support"
+msgstr "Отличная поддержка"
+
+#: inc/theme-info.php:70 inc/theme-info.php:313 inc/theme-info.php:556
+msgid "Ninja Form Support"
+msgstr "Поддержка Ninja Form"
+
+#: inc/theme-info.php:312 inc/theme-info.php:555
+msgid "Contact Form 7 Supports"
+msgstr "Поддержка Contact Form 7"
+
+#: inc/theme-info.php:68 inc/theme-info.php:311 inc/theme-info.php:554
+msgid "WooCommerce Ready"
+msgstr "Подходит для WooCommerce "
+
+#: inc/theme-info.php:66 inc/theme-info.php:177 inc/theme-info.php:309
+#: inc/theme-info.php:420 inc/theme-info.php:552 inc/theme-info.php:663
+msgid "Translation Ready"
+msgstr "Подходит для перевода"
+
+#: inc/theme-info.php:65 inc/theme-info.php:308 inc/theme-info.php:551
+msgid "Browser Compatibility"
+msgstr "Совместимость с браузерами"
+
+#: inc/theme-info.php:62
+msgid "Why Choose Specia Premium?"
+msgstr "Почему именно Specia Premium?"
+
+#: inc/theme-info.php:44
+msgid "Specia Premium WordPress Theme"
+msgstr "Тема Specia Premium от WordPress"
+
+#: inc/theme-info.php:256 inc/theme-info.php:499 inc/theme-info.php:742
+msgid "<b>Jetpack</b> Gallery Support"
+msgstr "<b>Jetpack</b> Поддержка галереи"
+
+#: inc/theme-info.php:89 inc/theme-info.php:332 inc/theme-info.php:575
+msgid "Extensive Documentation"
+msgstr "Подробная документация"
+
+#: inc/theme-info.php:88 inc/theme-info.php:331 inc/theme-info.php:574
+msgid "Breadcrumbs Ready"
+msgstr "Навигационная цепочка готова"
+
+#: inc/theme-info.php:87 inc/theme-info.php:330 inc/theme-info.php:573
+msgid "Blog Paginations"
+msgstr "Нумерация страниц блога"
+
+#: inc/theme-info.php:86 inc/theme-info.php:329 inc/theme-info.php:572
+msgid "Footer Copyright Editor"
+msgstr "Редактор текста об авторском праве в колонтитуле"
+
+#: inc/theme-info.php:83 inc/theme-info.php:326 inc/theme-info.php:569
+msgid "Custom Sidebars"
+msgstr "Боковые панели"
+
+#: inc/theme-info.php:82 inc/theme-info.php:195 inc/theme-info.php:325
+#: inc/theme-info.php:438 inc/theme-info.php:568 inc/theme-info.php:681
+msgid "Filterable Portfolio"
+msgstr "Портфолио с фильтрами"
+
+#: inc/theme-info.php:80 inc/theme-info.php:323 inc/theme-info.php:566
+msgid "Unlimited Colors"
+msgstr "Неограниченные цвета"
+
+#: inc/theme-info.php:79 inc/theme-info.php:322 inc/theme-info.php:565
+msgid "Social Media Integration"
+msgstr "Внедрение социальных сетей"
+
+#: inc/theme-info.php:78 inc/theme-info.php:321 inc/theme-info.php:564
+msgid "Prebuilt Theme Color"
+msgstr "Предварительный цвет темы"
+
+#: inc/theme-info.php:77 inc/theme-info.php:320 inc/theme-info.php:563
+msgid "Editable Post Slug"
+msgstr "Редактируемое служебное поле"
+
+#: inc/theme-info.php:76 inc/theme-info.php:319 inc/theme-info.php:562
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: inc/theme-info.php:75 inc/theme-info.php:318 inc/theme-info.php:561
+msgid "Wide & Boxed Layout"
+msgstr "Верстка по ширине и блокам"
+
+#: inc/theme-info.php:72 inc/theme-info.php:315 inc/theme-info.php:558
+msgid "Custom Widget"
+msgstr "Пользовательский виджет"
+
+#: inc/theme-info.php:71 inc/theme-info.php:314 inc/theme-info.php:557
+msgid "12 Page Templates"
+msgstr "12 шаблонов страниц"
+
+#: inc/theme-info.php:64 inc/theme-info.php:307 inc/theme-info.php:550
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/theme-info.php:310 inc/theme-info.php:553
+msgid "WPML & Polylang Supports"
+msgstr "Поддержка плагинов WPML и Polylang"
+
+#: inc/theme-info.php:73 inc/theme-info.php:85 inc/theme-info.php:213
+#: inc/theme-info.php:316 inc/theme-info.php:328 inc/theme-info.php:456
+#: inc/theme-info.php:559 inc/theme-info.php:571 inc/theme-info.php:699
+msgid "Section Order Manager"
+msgstr "Управление порядком разделов"
+
+#: inc/theme-info.php:109 inc/theme-info.php:352 inc/theme-info.php:595
+msgid "Free"
+msgstr "Бесплатно"
+
+#: inc/theme-info.php:50 inc/theme-info.php:293 inc/theme-info.php:536
+msgid "Buy Premium"
+msgstr "Купить Premium"
+
+#: inc/customize/specia-premium.php:30 inc/theme-info.php:48
+#: inc/theme-info.php:291 inc/theme-info.php:534
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: inc/customize/specia-header-section.php:291
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению, данная страница не найдена."
+
+#: 404.php:13
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже ничего не было найдено. Может быть попробуете воспользоваться поиском по сайту или посмотреть карту сайта?"
+
+#: comments.php:22 comments.php:44
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. Template Name of the plugin/theme
+msgid "Blog Left Sidebar"
+msgstr "Блог с левой боковой панелью"
+
+#. Template Name of the plugin/theme
+msgid "Page Fullwidth"
+msgstr "На всю ширину страницы"
+
+#: comments.php:25 comments.php:47
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:26 comments.php:48
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Закрытые комментарии."
+
+#: functions.php:24
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: search.php:10
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/template-tags.php:20
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:48
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:44
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:50
+msgid "Tagged %1$s"
+msgstr "Метки %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:64
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: template-parts/content.php:70
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. #-#-#-#-#  specia.pot (Specia 2.2.49)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#. #-#-#-#-#  specia.pot (Specia 2.2.49)  #-#-#-#-#
+#. Author of the plugin/theme
+msgid "Specia"
+msgstr "Specia"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#: inc/breadcrumb/breadcrumb.php:6 inc/specia-nav-walker.php:124
+msgid "Home"
+msgstr "Главная"
+
+#. translators: %s: post title
+#: inc/template-tags.php:57
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> на %s</span>"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: sections/specia-navigation.php:29
+msgid "Toggle navigation"
+msgstr "Переключатель навигации"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жаль, но по данному запросу ничего не найдено. Пожалуйста, попробуйте снова, используя другие ключевые слова."
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+msgid "1"
+msgstr "1"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Архив категории"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Результаты поиска"
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "Теги"
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Articles posted by "
+msgstr "Размещенные статьи"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "Ошибка 404"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customize/specia-blog.php:12
+msgid "Blog Section"
+msgstr "Раздел Блог"
+
+#: inc/customize/specia-blog.php:29 inc/customize/specia-call-action.php:29
+#: inc/customize/specia-features.php:29
+#: inc/customize/specia-footer-section.php:29
+#: inc/customize/specia-footer-section.php:91
+#: inc/customize/specia-header-section.php:418
+#: inc/customize/specia-portfolio.php:29 inc/customize/specia-service.php:29
+#: inc/customize/specia-slider-section.php:34
+msgid "on"
+msgstr "вкл."
+
+#: inc/customize/specia-blog.php:44 inc/customize/specia-call-action.php:44
+#: inc/customize/specia-features.php:44
+#: inc/customize/specia-footer-section.php:45
+#: inc/customize/specia-footer-section.php:107
+#: inc/customize/specia-header-section.php:49
+#: inc/customize/specia-header-section.php:352
+#: inc/customize/specia-header-section.php:434
+#: inc/customize/specia-portfolio.php:43 inc/customize/specia-service.php:44
+#: inc/customize/specia-slider-section.php:49
+msgid "Show"
+msgstr "Показать"
+
+#: inc/customize/specia-blog.php:45 inc/customize/specia-call-action.php:45
+#: inc/customize/specia-features.php:45
+#: inc/customize/specia-footer-section.php:46
+#: inc/customize/specia-footer-section.php:108
+#: inc/customize/specia-header-section.php:50
+#: inc/customize/specia-header-section.php:353
+#: inc/customize/specia-header-section.php:435
+#: inc/customize/specia-portfolio.php:44 inc/customize/specia-service.php:45
+#: inc/customize/specia-slider-section.php:50
+msgid "Hide"
+msgstr "Скрыть"
+
+#: inc/customize/specia-blog.php:114 inc/customize/specia-blog.php:130
+msgid "3"
+msgstr "3"
+
+#: inc/customize/specia-blog.php:123
+msgid "Posts Display"
+msgstr "Вывод статей"
+
+#: inc/customize/specia-blog.php:127
+msgid "No. of Post Display in a Single Row"
+msgstr "Вывод в 1, 2 или 3 строки по 3 записи в строке"
+
+#: inc/customize/specia-blog.php:131
+msgid "6"
+msgstr "6"
+
+#: inc/customize/specia-blog.php:132
+msgid "9"
+msgstr "9"
+
+#: inc/customize/specia-call-action.php:12
+msgid "Call Action Section"
+msgstr "Раздел Контакты"
+
+#: inc/customize/specia-call-action.php:76
+msgid "Select Page for Call Action:"
+msgstr "Выберите страницу для раздела Контакты:"
+
+#: inc/customize/specia-call-action.php:115
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/customize/specia-call-action.php:135
+msgid "Open link in a new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: inc/customize/specia-footer-section.php:18
+#: inc/customize/specia-footer-section.php:38
+#: inc/customize/specia-footer-section.php:64
+msgid "Copyright Content"
+msgstr "Авторские права"
+
+#: inc/customize/specia-footer-section.php:42
+msgid "Click to Hide / Show Copyright Content"
+msgstr "Нажмите, чтобы Скрыть/Показать блок авторских прав"
+
+#: inc/customize/specia-footer-section.php:68
+msgid "Enter your copyright text like website name"
+msgstr "Введите ваши авторские права текста и имя веб-сайта"
+
+#: inc/customize/specia-footer-section.php:80
+#: inc/customize/specia-footer-section.php:100
+msgid "Payment Icon"
+msgstr "Значки для оплаты"
+
+#: inc/customize/specia-footer-section.php:104
+msgid "Click to Hide / Show Payment Icon Section"
+msgstr "Нажмите, чтобы Скрыть / Показать значки для оплаты"
+
+#: inc/customize/specia-footer-section.php:126
+msgid "Paypal"
+msgstr "Paypal"
+
+#: inc/customize/specia-footer-section.php:148
+msgid "Visa"
+msgstr "Visa"
+
+#: inc/customize/specia-footer-section.php:169
+msgid "Master Card"
+msgstr "Master Card"
+
+#: inc/customize/specia-footer-section.php:190
+msgid "Amex"
+msgstr "Amex"
+
+#: inc/customize/specia-footer-section.php:211
+msgid "Stripe"
+msgstr "Stripe"
+
+#: inc/customize/specia-header-section.php:12
+msgid "Header Section"
+msgstr "Шапка сайта (Header)"
+
+#: inc/customize/specia-header-section.php:24
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: inc/customize/specia-footer-section.php:130
+#: inc/customize/specia-footer-section.php:152
+#: inc/customize/specia-footer-section.php:173
+#: inc/customize/specia-footer-section.php:194
+#: inc/customize/specia-footer-section.php:215
+#: inc/customize/specia-header-section.php:72
+#: inc/customize/specia-header-section.php:93
+#: inc/customize/specia-header-section.php:114
+#: inc/customize/specia-header-section.php:134
+#: inc/customize/specia-header-section.php:154
+#: inc/customize/specia-header-section.php:174
+#: inc/customize/specia-header-section.php:194
+#: inc/customize/specia-header-section.php:214
+#: inc/customize/specia-header-section.php:294
+#: inc/customize/specia-header-section.php:314
+msgid "Enter Your Link Here"
+msgstr "Введите здесь Вашу ссылку"
+
+#: inc/customize/specia-header-section.php:33
+#: inc/customize/specia-header-section.php:336
+msgid "off"
+msgstr "выкл."
+
+#: inc/customize/specia-header-section.php:42
+msgid "Social Media Hide/Show"
+msgstr "Социальные сети Скрыть/Показать"
+
+#: inc/customize/specia-header-section.php:46
+msgid "Click to Hide / Show Social Media"
+msgstr "Нажмите, чтобы Скрыть / Показать социальные сети"
+
+#: inc/customize/specia-header-section.php:69
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customize/specia-header-section.php:90
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customize/specia-header-section.php:111
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customize/specia-header-section.php:131
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customize/specia-header-section.php:151
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customize/specia-header-section.php:171
+msgid "Dribble"
+msgstr "Dribble"
+
+#: inc/customize/specia-header-section.php:191
+msgid "Github"
+msgstr "Github"
+
+#: inc/customize/specia-header-section.php:211
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: inc/customize/specia-header-section.php:231
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customize/specia-header-section.php:234
+msgid "Enter Your Skype Username"
+msgstr "Введите Ваш логин Skype"
+
+#: inc/customize/specia-header-section.php:251
+msgid "Skype Action"
+msgstr "Действия Skype"
+
+#: inc/customize/specia-header-section.php:254
+msgid "Enter Your Skype Action For E.g: skype:echo123?call (call, chat, voicemail, sendfile, userinfo, add)"
+msgstr "Введите ваши действия Skype например: skype:echo123?call (звонок - call, чат - chat, голосовая почта - voicemail, функция отправить файл - sendfile, информация о пользователt - userinfo, добавить - add)"
+
+#: inc/customize/specia-header-section.php:271
+#: inc/customize/specia-header-section.php:371
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize/specia-header-section.php:274
+msgid "Enter Your Email Here"
+msgstr "Введите Ваш Email"
+
+#: inc/customize/specia-header-section.php:326
+msgid "Header Contact Info"
+msgstr "Контактная информация в шапке сайта"
+
+#: inc/customize/specia-header-section.php:345
+msgid "Header Contact Info Hide/Show"
+msgstr "Контактная информация в шапке сайта Скрыть/Показать"
+
+#: inc/customize/specia-header-section.php:349
+msgid "Click to Hide / Show Contact Info"
+msgstr "Нажмите, чтобы Скрыть / Показать контактную информацию"
+
+#: inc/customize/specia-header-section.php:375
+msgid "Enter the Email"
+msgstr "Введите адрес электронной почты"
+
+#: inc/customize/specia-header-section.php:392
+msgid "Contact Number"
+msgstr "Контактный телефон"
+
+#: inc/customize/specia-header-section.php:396
+msgid "Enter the Contact Number"
+msgstr "Введите контактный телефон"
+
+#: inc/customize/specia-portfolio.php:12 inc/theme-info.php:165
+#: inc/theme-info.php:408 inc/theme-info.php:651
+msgid "Portfolio Section"
+msgstr "Раздел Портфолио"
+
+#: inc/customize/specia-service.php:12 inc/theme-info.php:153
+#: inc/theme-info.php:396 inc/theme-info.php:639
+msgid "Service Section"
+msgstr "Раздел Услуги"
+
+#: inc/customize/specia-slider-section.php:12
+msgid "Slider Section"
+msgstr "Раздел Слайдер"
+
+#: inc/sidebar/sidebar.php:6
+msgid "The Primary Widget Area"
+msgstr "Основная панель виджетов"
+
+#: inc/theme-info.php:74 inc/theme-info.php:317 inc/theme-info.php:560
+msgid "Style Configuration"
+msgstr "Конфигурация стиля"
+
+#: inc/theme-info.php:249 inc/theme-info.php:492 inc/theme-info.php:735
+msgid "Fixed Background Color"
+msgstr "Цвет фиксированного фона"
+
+#: inc/widget/widget_feature.php:84
+msgid "Features Description:"
+msgstr "Описание для раздела Возможности:"
+
+#: inc/widget/widget_feature.php:74
+msgid "Features Title:"
+msgstr "Название раздела Возможности:"
+
+#: inc/widget/widget_feature.php:16
+msgid "Features Widget"
+msgstr "Виджеты раздела Возможности"
+
+#: inc/sidebar/sidebar.php:36
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Это область для виджетов WooCommerce"
+
+#: inc/sidebar/sidebar.php:34
+msgid "WooCommerce Widget Area"
+msgstr "Область виджетов WooCommerce"
+
+#: inc/sidebar/sidebar.php:26
+msgid "The Features Widget Area for Home Features"
+msgstr "Область виджетов раздела Возможности"
+
+#: inc/customize/specia-slider-section.php:122
+msgid "Select Page for Slide Three:"
+msgstr "Выберите страницу для Слайда 3 :"
+
+#: inc/customize/specia-slider-section.php:101
+msgid "Select Page for Slide Two:"
+msgstr "Выберите страницу Слайда Два:"
+
+#: inc/customize/specia-slider-section.php:80
+msgid "Select Page for Slide One:"
+msgstr "Выберите страницу для Слайда Один:"
+
+#: inc/customize/specia-service.php:167
+msgid "Select Page for Service Three:"
+msgstr "Выберите страницу для услуги 3:"
+
+#: inc/customize/specia-service.php:146
+msgid "Select Page for Service Two:"
+msgstr "Выберите страницу для услуги 2:"
+
+#: inc/customize/specia-service.php:125
+msgid "Select Page for Service One:"
+msgstr "Выберите страницу для услуги 1:"
+
+#: inc/customize/specia-blog.php:93 inc/customize/specia-features.php:93
+#: inc/customize/specia-portfolio.php:92 inc/customize/specia-service.php:93
+msgid "Section Description"
+msgstr "Описание раздела Услуги"
+
+#: inc/customize/specia-portfolio.php:166
+msgid "Select Page for Portfolio Three:"
+msgstr "Выберите страницу для портфолио 3:"
+
+#: inc/customize/specia-portfolio.php:145
+msgid "Select Page for Portfolio Two:"
+msgstr "Выберите страницу для портфолио 2:"
+
+#: inc/customize/specia-portfolio.php:124
+msgid "Select Page for Portfolio One:"
+msgstr "Выберите страницу для портфолио 1:"
+
+#: inc/customize/specia-header-section.php:431
+msgid "Click to Hide / Show Sticky Header"
+msgstr "Нажмите, чтобы Скрыть / Показать прикрепленный заголовок"
+
+#: inc/customize/specia-header-section.php:408
+#: inc/customize/specia-header-section.php:427 inc/theme-info.php:84
+#: inc/theme-info.php:327 inc/theme-info.php:570
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: inc/customize/specia-features.php:12 inc/theme-info.php:159
+#: inc/theme-info.php:402 inc/theme-info.php:645
+msgid "Features Section"
+msgstr "Раздел Возможности"
+
+#: footer.php:27 inc/customize/specia-footer-section.php:55
+msgid "Your Copyright Text"
+msgstr "Ваш текст об авторских правах"
+
+#: inc/customize/specia-footer-section.php:10
+msgid "Footer Section"
+msgstr "Подвал"
+
+#: inc/sidebar/sidebar.php:4
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: inc/sidebar/sidebar.php:14
+msgid "Footer Widget Area"
+msgstr "Область виджетов в подвале"
+
+#: inc/template-tags.php:25
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#. Template Name of the plugin/theme
+msgid "Homepage One"
+msgstr "Главная страница Один"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Архив рубрик: %s"
+
+#. translators: %s: Name of current post.
+#: sections/specia-blog.php:76 sections/specia-slider.php:58
+#: template-parts/content-page.php:65 template-parts/content-search.php:66
+#: template-parts/content.php:65
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/widget/widget_feature.php:79
+msgid "Features Icons:"
+msgstr "Значки раздела Возможности:"
+
+#: inc/sidebar/sidebar.php:16
+msgid "The Footer Widget Area"
+msgstr "Область виджетов подвала"
+
+#: inc/sidebar/sidebar.php:24 inc/widget/widget_feature.php:19
+msgid "Features Widget Area"
+msgstr "Панель виджетов в разделе возможностей"
+
+#. Author URI of the plugin/theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://speciatheme.com/specia-free-wordpress-theme/"
+msgstr "https://speciatheme.com/specia-free-wordpress-theme/"
